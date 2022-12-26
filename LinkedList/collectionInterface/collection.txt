@@ -1,0 +1,16 @@
+It contains the most common methods which are applicable for any collection object
+
+boolean add(object o);
+boolean addAll(collection c)
+boolean remove(object o)
+boolean removeAll(collection c)
+boolean retainAll(collection c)
+    -to remove all objects except those present in C
+
+void clear()
+boolean contains(object o)
+boolean containsAll(collection c)
+boolean isEmpty()
+int size()
+object[] toArray()
+Iterator iterator()

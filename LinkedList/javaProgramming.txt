@@ -1,0 +1,82 @@
+1. Write a program to merge two sorted array.
+
+2.Explain Rat in a Maze problem. What data structure you will use. Can you Write code for it.
+
+3.Write a program to eliminate duplicates in a sorted array.
+
+4.Write a program to delete the duplicates in an array of student list.
+
+5.Write a Program to find the maximum element in an array of 10 elements.
+
+6.Write a program to find minimum and maximum of an array?
+
+7.Reverse a string without using any in-built string functions?
+
+8.Get an IP address in char * and store it in uint32 variable and display with '.' symbol.
+
+9.Write a program to sort an array into two halves, one half ascending and second half descending.
+
+10.Write a logic for Matrix multiplication.
+
+Find the 2nd largest element in array, without sorting and swap in the middle element.
+
+Given a list of the array, sort the array in descending order with the frequency of elements.
+
+Write a program to sort a 2-D matrix row by row in ascending order.
+
+Given an array of size MxN and coordinates of starting of subarray (x, y). You need to rotate that subarray and then print the full array after rotation.
+
+Given three sorted arrays A, B, and C. Write the most efficient algorithm to find the 5th largest element among the three arrays.
+
+
+Given two vectors. One contains array element "ele" and other indexes "ind" to push the corresponding element at that index in new array shifting all elements to its right.
+
+
+Given an array with n elements and a sum x, need to count all pairs of elements in the array whose sum is equal to x. Told two approaches one using binary search and other using two pointers.
+
+
+Given an array and integer K, find the number of pairs such that a[i]+K=a[j]
+
+Given an array of integers with repeating elements, find the sum of differences between positions of repeated elements and store them in an array of the same size.
+For e.g. given array {1, 2, 3, 1, 2, 1, 2} we shall have:
+For position 0: 1 is on positions 3&5 additional to position 0.
+Thus for position 0: |3-0| + |5-0| = 8.
+For position 1: 2 is on positions 4&6 additional to position 1.
+Thus for position 1: |4-1| + |6-1| = 8.
+Finding palindromic substrings within a string
+For e.g. given string ‘banana’, palindromic substrings would be ‘aa’, ‘aaa’, ‘ana’, ‘anna’ and so on.
+
+
+Given a value V, if we want to make a change for V cents, and we have an infinite supply of each of C = { C1, C2, .., Cm} valued coins, what is the minimum number of coins to make the change?
+Input : The first line of input contains an integer T denoting the number of test cases.
+The first line of each test case is V and N,V is the value of cents and N is the number of coins.
+The second line of each test case contains N input C[i],value of available coins.
+
+
+In the below given series:
+1, 2, 1, 3, 2, 5, 3, 7, 5, 11, 8, 13, 13, 17, ...
+This series is a mixture of 2 series - all the odd terms in this series form a Fibonacci series and all the even terms are the prime numbers in ascending order.
+
+
+Write a program to find the Nth term in this series.
+Note:
+The value N is a Positive integer that should be read from STDIN. The Nth term that is calculated by the program should be written to STDOUT. Other than the value of Nth term, no other characters/strings or message should be written to STDOUT.
+For example, when N = 14, the 14th term in the series is 17. So only the value 17 should be printed to STDOUT.
+Given a series whose even term creates a separate geometric series and odd term creates another geometric series.
+
+
+Write a program to generate such series.For example,1, 1, 2, 2, 4, 4, 8, 8, 16, 16,......
+sort the data from the list :
+Input : my_dates = ['5-Nov-18', '25-Mar-17', '1-Nov-18', '7-Mar-17']
+
+Write a program to count the number of elements which are greater than any of element on right side of an array.
+
+
+Write a program to find the pair from two 2D matrix such that there sum is equal to given sum.
+
+
+Given an unsorted array of n integers that can contain integers from 1 to n. Some elements can be repeated multiple times and some other elements can be absent from the array. Write a program to count the frequency of all elements that are present and print the missing elements.
+
+
+For given an array of DISTINCT elements, Write a program to rearrange the elements of array in zig-zag fashion.
+Input : arr[] = {4, 3, 7, 8, 6, 2, 1}
